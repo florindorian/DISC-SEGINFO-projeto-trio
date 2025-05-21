@@ -1,0 +1,6 @@
+[submodule "repo-backend"]
+	path = repo-backend
+	url = git@github.com:Igoquintino/API_REST_POBREFLIX.git
+[submodule "repo-frontend"]
+	path = repo-frontend
+	url = git@github.com:Igoquintino/FRONTEND_PobreFlix.git
