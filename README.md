@@ -3,9 +3,9 @@ Repositório para desenvolvimento do projeto em trio da disciplina de Segurança
 
 ## Equipe
 
-Florindo Rian Silva Carreteiro 
-Igo Quintino Castro Prata 
-João Paulo Santos Bembe 
++ Florindo Rian Silva Carreteiro 
++ Igo Quintino Castro Prata 
++ João Paulo Santos Bembe 
 
 ## **link para repositórios back-end e front-end**
 
